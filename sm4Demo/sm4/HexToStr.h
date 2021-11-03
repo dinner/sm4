@@ -13,6 +13,6 @@
 +(unsigned char*)hexEnc:(NSString*)strInput;//加密
 +(unsigned char*)hexDec:(NSString*)strInput;//解密
 
-+(unsigned char*)hexEnc_SensitiveInfo:(NSString*)strInput;//敏感数据加密
+//+(unsigned char*)hexEnc_SensitiveInfo:(NSString*)strInput;//敏感数据加密
 
 @end
