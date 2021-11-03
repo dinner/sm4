@@ -14,7 +14,7 @@
 typedef unsigned char Uchar;
 
 @implementation HexToStr
-
+///测试
 //计算mac
 +(unsigned char*)hexEnc:(NSString*)strInput{
     NSData* data = [strInput dataUsingEncoding:NSUTF8StringEncoding];
